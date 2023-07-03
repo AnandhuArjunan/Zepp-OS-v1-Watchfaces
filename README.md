@@ -7,4 +7,4 @@ The Zepp OS is an **extremely battery efficient smartwatch operating system** th
 Supported Platform - Amazefit GTS 4 Mini
 
  1. Life is Strange
-<img src="screenshots/1.png" alt="" width="50"/>
+<img src="screenshots/1.png" alt="" width="250"/>
