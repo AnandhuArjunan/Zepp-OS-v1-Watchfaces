@@ -1,3 +1,4 @@
+
 # Zepp OS v1 - Custom Watchfaces
 
 The Zepp OS is an **extremely battery efficient smartwatch operating system** that Zepp Health announced in July 2021.
@@ -6,5 +7,9 @@ The Zepp OS is an **extremely battery efficient smartwatch operating system** th
 
 Supported Platform - Amazefit GTS 4 Mini
 
- 1. Life is Strange
+ ## Life is Strange
 <img src="Life is Strange/screenshots/1.png" alt="" width="250"/>
+
+## Life is Strange New
+
+<img src="Life is Strange 2/screenshots/1.gif" alt="" width="250"/>
